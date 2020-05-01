@@ -1,0 +1,105 @@
+RBP	Function
+AQR	Spliceosome
+BUD13	Spliceosome
+EFTUD2	Spliceosome
+GEMIN5	Spliceosome
+GPKOW	Spliceosome
+PRPF8	Spliceosome
+RBM22	Spliceosome
+SF3B1	Spliceosome
+SF3B4	Spliceosome
+SMNDC1	Spliceosome
+U2AF1	Spliceosome
+U2AF2	Spliceosome
+AKAP8L	Splicing regulation
+EWSR1	Splicing regulation
+FMR1	Splicing regulation
+FUS	Splicing regulation
+HNRNPA1	Splicing regulation
+HNRNPC	Splicing regulation
+HNRNPK	Splicing regulation
+HNRNPL	Splicing regulation
+HNRNPM	Splicing regulation
+HNRNPU	Splicing regulation
+KHDRBS1	Splicing regulation
+KHSRP	Splicing regulation
+MATR3	Splicing regulation
+NCBP2	Splicing regulation
+NONO	Splicing regulation
+PCBP1	Splicing regulation
+PTBP1	Splicing regulation
+QKI	Splicing regulation
+RBFOX2	Splicing regulation
+RBM15	Splicing regulation
+SND1	Splicing regulation
+SRSF1	Splicing regulation
+SRSF7	Splicing regulation
+TARDBP	Splicing regulation
+TIA1	Splicing regulation
+TRA2A	Splicing regulation
+ZRANB2	Splicing regulation
+APOBEC3C	Modification & processing
+CPEB4	Modification & processing
+CPSF6	Modification & processing
+CSTF2T	Modification & processing
+DDX21	Modification & processing
+DDX51	Modification & processing
+DDX52	Modification & processing
+FASTKD2	Modification & processing
+FTO	Modification & processing
+LIN28B	Modification & processing
+LSM11	Modification & processing
+MTPAP	Modification & processing
+NPM1	Modification & processing
+PUS1	Modification & processing
+SBDS	Modification & processing
+SLBP	Modification & processing
+SSB	Modification & processing
+SUPV3L1	Modification & processing
+UTP18	Modification & processing
+WDR3	Modification & processing
+WDR43	Modification & processing
+XRN2	Modification & processing
+DDX6	Stability & decay
+FXR1	Stability & decay
+FXR2	Stability & decay
+IGF2BP1	Stability & decay
+ILF3	Stability & decay
+LARP4	Stability & decay
+PABPC4	Stability & decay
+PUM1	Stability & decay
+PUM2	Stability & decay
+SERBP1	Stability & decay
+TAF15	Stability & decay
+UPF1	Stability & decay
+YBX3	Stability & decay
+AARS	Other
+ABCF1	Other
+AKAP1	Other
+DDX24	Other
+DDX3X	Other
+DHX30	Other
+DROSHA	Other
+EIF3G	Other
+EIF4G2	Other
+HNRNPUL1	Other
+IGF2BP2	Other
+LARP7	Other
+RPS3	Other
+TBRG4	Other
+AATF	Novel RBP
+AGGF1	Novel RBP
+DDX55	Novel RBP
+FAM120A	Novel RBP
+GRWD1	Novel RBP
+GTF2F1	Novel RBP
+HLTF	Novel RBP
+METAP2	Novel RBP
+PHF6	Novel RBP
+PPIL4	Novel RBP
+SAFB2	Novel RBP
+SLTM	Novel RBP
+UCHL5	Novel RBP
+WRN	Novel RBP
+XRCC6	Novel RBP
+ZC3H8	Novel RBP

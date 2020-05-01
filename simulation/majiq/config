@@ -1,0 +1,9 @@
+[info]
+readlen=101
+bamdirs=/store04/fanchen/rna-seq/simulation/bam
+genome=GRCh37
+strandness=None
+[experiments]
+I=Hs_sample1.sorted,Hs_sample2.sorted,Hs_sample3.sorted
+II=Hs_sample4.sorted,Hs_sample5.sorted,Hs_sample6.sorted
+
