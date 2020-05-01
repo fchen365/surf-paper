@@ -38,7 +38,7 @@ The current repository includes:
   * majiq/: contain two files needed for running MAJIQ.
   * dexseq/: contain two files needed for DEXSeq preparation.
 
-To reproduce the ENCODE results: 
+To reproduce the ENCODE results (available at (DOI): [10.5281/zenodo.3779037](https://doi.org/10.5281/zenodo.3779037)): 
 
   1. Download the processed bam files (shRNA-seq and eCLIP-seq) from [ENCODE](https://www.encodeproject.org) portal. 
   1. Download transcriptome quantification of [TCGA](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) and [GTEx](https://commonfund.nih.gov/gtex) projects from [Xena](https://xena.ucsc.edu).
