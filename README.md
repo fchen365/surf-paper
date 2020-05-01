@@ -43,7 +43,7 @@ The current repository includes:
       - majiq/: contain two files needed for running MAJIQ.
       - dexseq/: contain two files needed for DEXSeq preparation.
 
-To reproduce the ENCODE results (available at (DOI):
+To reproduce the ENCODE data analysis/results (available at (DOI):
 [10.5281/zenodo.3779037](https://doi.org/10.5281/zenodo.3779037)):
 
 1.  Download the processed bam files (shRNA-seq and eCLIP-seq) from
