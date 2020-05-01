@@ -9,6 +9,7 @@
 
 <!-- [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental) -->
 
+[![DOI](https://zenodo.org/badge/260113226.svg)](https://zenodo.org/badge/latestdoi/260113226)
 <!-- badges: end -->
 
 This repository makes available the source code for our SURF paper(s).
